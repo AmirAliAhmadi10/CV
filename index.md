@@ -1,8 +1,11 @@
 ## Welcome to Amir Ali's Personal Site
 
-#Personal Information
->First Name : Amir Ali
+# Personal Information
+>First Name : Amir Ali  
 >Last Name : Ahmadi
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
